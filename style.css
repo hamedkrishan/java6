@@ -1,0 +1,10 @@
+.completed {
+    color: gray;
+    text-decoration: line-through;
+}
+
+
+.gab{
+    display: flex;
+    justify-content: space-between;
+}
